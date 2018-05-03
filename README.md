@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/citizenlabsgr/homepage.png?columns=all)](https://waffle.io/citizenlabsgr/homepage?utm_source=badge)
 [![Stories in Ready](https://badge.waffle.io/joelvaneenwyk/homepage.png?label=ready&title=Ready)](https://waffle.io/joelvaneenwyk/homepage)
 # Joel Van Eenwyk Homepage
 
